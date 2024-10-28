@@ -12,7 +12,7 @@ import {
   utils,
   write,
   WritingOptions,
-} from "xlsx";
+} from "xlsx-republish";
 import "./config";
 import { isString } from "./helpers";
 import { WorkBook } from "./workbook";
